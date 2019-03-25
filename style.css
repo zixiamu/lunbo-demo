@@ -1,0 +1,17 @@
+.images{
+    display: flex;
+    align-items: flex-start;
+    border:1px solid red;
+    transition: all 0.5s;
+}
+.images>image{
+    
+}
+.window{
+     border: 10px solid green;
+     overflow: hidden;
+     width: 300px;
+}
+.red{
+    color: red;
+}
